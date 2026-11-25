@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Banking Management System" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="gui.Launcher" />
+    <module name="BankingManagementSystem" />
+    <option name="VM_PARAMETERS" value="--module-path &quot;$PROJECT_DIR$/../javafx-sdk-21.0.13.1/lib&quot; --add-modules javafx.controls -Djava.library.path=&quot;$PROJECT_DIR$/../javafx-sdk-21.0.13.1/bin&quot;" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
